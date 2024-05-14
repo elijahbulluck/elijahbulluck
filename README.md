@@ -1,14 +1,21 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Elijah</h1>
 <h3 align="center">Incoming SDE Intern @ Amazon | CIS Student @ The Ohio State University | Morrill Scholar | ColorStack</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elijahbulluck&label=Profile%20views&color=0e75b6&style=flat" alt="elijahbulluck" /> </p>
 
+### Now Playing — Spotify 🎧
+
+<p align="left">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=521g23xzh7mg7p111bb4wz54r&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=521g23xzh7mg7p111bb4wz54r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</a>
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahbulluck" alt="elijahbulluck" /></a> </p>
 
 - 🌱 I’m currently learning **C++, AWS, Social & Ethical Issues in Computing**
 
-- 📫 How to reach me: **elijahmbulluck@gmail.com**
+- 📫 How to reach me: **bulluck.2@buckeyemail.osu.edu**
 
 - 📄 Know about my experiences: [Link to Resume (Updated May 2024)](https://drive.google.com/file/d/1J7F9_u_m8Zrhf3WMEozJnycnGgTXbKzp/view?usp=sharing)
 
