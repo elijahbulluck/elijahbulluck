@@ -13,7 +13,7 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahbulluck" alt="elijahbulluck" /></a> </p>
 
-- 🌱 I’m currently learning **C++, AWS, Social & Ethical Issues in Computing**
+- 🌱 I’m currently learning: **C++, AWS, Social & Ethical Issues in Computing**
 
 - 📫 How to reach me: **bulluck.2@buckeyemail.osu.edu**
 
