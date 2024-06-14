@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **bulluck.2@buckeyemail.osu.edu**
 
-- 📄 Know about my experiences: [Link to Resume (Updated May 2024)](https://drive.google.com/file/d/1J7F9_u_m8Zrhf3WMEozJnycnGgTXbKzp/view?usp=sharing)
+- 📄 Know about my experiences: [Link to Resume (Updated June 2024)](https://drive.google.com/file/d/144VXY4Kiz5pW4ldTN1ngKGGg2oWRbpTU/view?usp=drivesdk)
 
 - ⚡ Fun fact: **I sing and make music!**
 
