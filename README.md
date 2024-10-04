@@ -7,8 +7,8 @@
 - 🎧 I'm currently listening to:
 
 <p align="left">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=521g23xzh7mg7p111bb4wz54r&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=521g23xzh7mg7p111bb4wz54r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=521g23xzh7mg7p111bb4wz54r&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=521g23xzh7mg7p111bb4wz54r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </a>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahbulluck" alt="elijahbulluck" /></a> </p>
