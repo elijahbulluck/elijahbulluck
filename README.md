@@ -13,11 +13,11 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahbulluck" alt="elijahbulluck" /></a> </p>
 
-- 🌱 I’m currently learning: **C++, AWS, Social & Ethical Issues in Computing**
+- 🌱 I’m currently learning: **C++, Social & Ethical Issues in Computing**
 
 - 📫 How to reach me: **bulluck.2@buckeyemail.osu.edu**
 
-- 📄 Know about my experiences: [Link to Resume (Updated July 2024)](https://drive.google.com/file/d/1UDXdr_hwk27LguXVjQ_aMkImuWvv0MRf/view?usp=drivesdk)
+- 📄 Know about my experiences: [Link to Resume (Updated October 2024)]([https://drive.google.com/file/d/1UDXdr_hwk27LguXVjQ_aMkImuWvv0MRf/view?usp=drivesdk](https://drive.google.com/file/d/1V7AZnt7Yj_Cenks5mGQkWu1WOzBPRcxQ/view?usp=sharing))
 
 - ⚡ Fun fact: **I sing and make music!**
 
