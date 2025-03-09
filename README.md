@@ -1,6 +1,6 @@
 ![Header](./github-header-image1.png)
 <h1 align="center">Hi 👋, I'm Elijah</h1>
-<h3 align="center">Incoming SWE @ UBS | The Ohio State University Alum</h3>
+<h3 align="center">Incoming SWE @ UBS | Site Reliability Engineer @ Huntington (Contract) | The Ohio State University Alum</h3>
 <img align="right" alt="UBS Coffee" width="400" src="https://media2.giphy.com/media/QBnQgXA0LVOlD8AjUA/200w.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elijahbulluck&label=Profile%20views&color=0e75b6&style=flat" alt="elijahbulluck" /> </p>
 
