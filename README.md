@@ -1,7 +1,7 @@
 ![Header](./github-header-image1.png)
 <h1 align="center">Hi 👋, I'm Elijah</h1>
-<h3 align="center">Prev SDE Intern @ Amazon | The Ohio State University Alum | Morrill Scholar | ColorStack</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<h3 align="center">Incoming SWE @ UBS | The Ohio State University Alum</h3>
+<img align="right" alt="UBS Coffee" width="400" src="https://media2.giphy.com/media/QBnQgXA0LVOlD8AjUA/200w.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elijahbulluck&label=Profile%20views&color=0e75b6&style=flat" alt="elijahbulluck" /> </p>
 
 - 🎧 I'm currently listening to:
@@ -13,11 +13,11 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahbulluck" alt="elijahbulluck" /></a> </p>
 
-- 🌱 I’m currently learning: **C++**
+- 🌱 I’m currently learning: **Site Reliability Engineering, Dynatrace, Splunk, ServiceNow, Bank processes**
 
-- 📫 How to reach me: **bulluck.2@buckeyemail.osu.edu**
+- 📫 How to reach me: **embulluck@outlook.com**
 
-- 📄 Know about my experiences: [Link to Resume (Updated January 2025)](https://drive.google.com/file/d/1hRfEblvSlHECPqiT06Ce5pLoV_SDTSTy/view?usp=drivesdk)
+- 📄 Know about my experiences: [Link to Resume (Updated March 2025)](https://drive.google.com/file/d/1N18meQFb-93etu3di6QOXoSN5sJSf6BU/view?usp=drivesdk)
 
 - ⚡ Fun fact: **I sing and make music!**
 
