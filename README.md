@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **embulluck@outlook.com**
 
-- 📄 Know about my experiences: [Link to Resume (Updated March 2025)](https://drive.google.com/file/d/1N18meQFb-93etu3di6QOXoSN5sJSf6BU/view?usp=drivesdk)
+- 📄 Know about my experiences: [Link to Resume (Updated June 2025)](https://drive.google.com/file/d/1Ic3qQr8RKDWkNX_Vjk12SruqAjlfXP4_/view?usp=sharing)
 
 - ⚡ Fun fact: **I sing and make music!**
 
