@@ -1,6 +1,6 @@
 ![Header](./github-header-image1.png)
 <h1 align="center">Hi 👋, I'm Elijah</h1>
-<h3 align="center">Incoming SWE @ UBS | Site Reliability Engineer @ Huntington (Contract) | The Ohio State University Alum</h3>
+<h3 align="center">Software Engineer @ UBS | The Ohio State University Alum</h3>
 <img align="right" alt="UBS Coffee" width="400" src="https://media2.giphy.com/media/QBnQgXA0LVOlD8AjUA/200w.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elijahbulluck&label=Profile%20views&color=0e75b6&style=flat" alt="elijahbulluck" /> </p>
 
@@ -13,7 +13,7 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahbulluck" alt="elijahbulluck" /></a> </p>
 
-- 🌱 I’m currently learning: **Site Reliability Engineering, Dynatrace, Splunk, ServiceNow, Bank processes**
+- 🌱 I’m currently learning: **Databricks, Azure, Scala, Kubernetes**
 
 - 📫 How to reach me: **embulluck@outlook.com**
 
